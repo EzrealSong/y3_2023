@@ -1,0 +1,114 @@
+{
+    "describe": -1702219351, 
+    "editor_res": false, 
+    "key": 207547, 
+    "map_name": "dm9\u89d2\u8272", 
+    "model_id": 557510, 
+    "name": 1285150710, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u5199\u5b9e", 
+            "\u82f1\u96c4", 
+            "\u73b0\u4ee3", 
+            "\u4e9a\u6d32", 
+            "\u7537\u6027", 
+            "\u6210\u5e74", 
+            "\u5f3a\u58ee", 
+            "\u7ea2\u8272"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/207547", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "b_weapon_root", 
+                0.0, 
+                0.0, 
+                -0.05212219059467316
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "default_0": {
+            "__tuple__": true, 
+            "items": [
+                "default_0", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_207547"
+}
