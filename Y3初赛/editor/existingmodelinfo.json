@@ -10,6 +10,14 @@
  {
   "__tuple__": true, 
   "items": [
+   2, 
+   "\u4e3b\u89d2", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
    9999, 
    "\u521d\u59cb\u955c\u5934", 
    32768
@@ -18,9 +26,678 @@
  {
   "__tuple__": true, 
   "items": [
-   2, 
-   "\u4e3b\u89d2", 
-   1
+   1, 
+   "\u683c\u5b50\uff08\u4e34\u65f6", 
+   16384
   ]
+ }, 
+ {
+  "name": "\u70b9-\u7ea2\u8272", 
+  "key": "0zv-j4gGEe6U17zxcSfd8d", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     10026, 
+     "\u7ea2\u70b9-1-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10027, 
+     "\u7ea2\u70b9-1-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10031, 
+     "\u7ea2\u70b9-1-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10032, 
+     "\u7ea2\u70b9-1-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10033, 
+     "\u7ea2\u70b9-1-5", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10034, 
+     "\u7ea2\u70b9-2-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10035, 
+     "\u7ea2\u70b9-2-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10036, 
+     "\u7ea2\u70b9-2-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10037, 
+     "\u7ea2\u70b9-2-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10038, 
+     "\u7ea2\u70b9-3-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10039, 
+     "\u7ea2\u70b9-3-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10040, 
+     "\u7ea2\u70b9-3-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10041, 
+     "\u7ea2\u70b9-3-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10042, 
+     "\u7ea2\u70b9-3-5", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10043, 
+     "\u7ea2\u70b9-4-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10044, 
+     "\u7ea2\u70b9-4-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10045, 
+     "\u7ea2\u70b9-4-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10046, 
+     "\u7ea2\u70b9-4-4", 
+     1024
+    ]
+   }
+  ], 
+  "btn_visible": false
+ }, 
+ {
+  "name": "\u70b9-\u84dd\u8272", 
+  "key": "rQ37HogGEe6K4rzxcSfd8a", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     10000, 
+     "\u84dd\u70b9-4-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10001, 
+     "\u84dd\u70b9-4-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10002, 
+     "\u84dd\u70b9-4-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10003, 
+     "\u84dd\u70b9-4-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10004, 
+     "\u84dd\u70b9-4-5", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10005, 
+     "\u84dd\u70b9-3-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10006, 
+     "\u84dd\u70b9-3-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10007, 
+     "\u84dd\u70b9-3-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10008, 
+     "\u84dd\u70b9-3-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10009, 
+     "\u84dd\u70b9-2-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10010, 
+     "\u84dd\u70b9-2-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10011, 
+     "\u84dd\u70b9-2-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10012, 
+     "\u84dd\u70b9-2-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10014, 
+     "\u84dd\u70b9-2-5", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10015, 
+     "\u84dd\u70b9-1-1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10016, 
+     "\u84dd\u70b9-1-2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10017, 
+     "\u84dd\u70b9-1-3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10019, 
+     "\u84dd\u70b9-1-4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10020, 
+     "\u84dd\u70b9-\u51c6\u59071", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10021, 
+     "\u84dd\u70b9-\u51c6\u59072", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10022, 
+     "\u84dd\u70b9-\u51c6\u59073", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10024, 
+     "\u84dd\u70b9-\u51c6\u59074", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10025, 
+     "\u84dd\u70b9-\u51c6\u59075", 
+     1024
+    ]
+   }
+  ], 
+  "btn_visible": false
+ }, 
+ {
+  "name": "\u683c\u5b50", 
+  "key": "623VXogCEe6jRbzxcSfd8c", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     2, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     3, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     4, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     5, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     6, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     7, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     8, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     9, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     10, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     11, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     12, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     13, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     14, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     15, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     16, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     17, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     18, 
+     "\u683c\u5b50\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     19, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     20, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     21, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     22, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     23, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     24, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     25, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     26, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     27, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     28, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     29, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     30, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     31, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     32, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     33, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     34, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     35, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     36, 
+     "\u683c\u5b50-\u7ea2\uff08\u4e34\u65f6", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     37, 
+     "\u51c6\u5907\u533a", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     38, 
+     "\u51c6\u5907\u533a", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     39, 
+     "\u51c6\u5907\u533a", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     40, 
+     "\u51c6\u5907\u533a", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     41, 
+     "\u51c6\u5907\u533a", 
+     16384
+    ]
+   }
+  ], 
+  "btn_visible": false
  }
 ]
