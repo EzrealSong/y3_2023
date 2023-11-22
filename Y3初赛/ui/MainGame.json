@@ -1,0 +1,400 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 133618, 
+                            "name": "GUI", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    849.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    43.859649122807014
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1392.0, 
+                                    373.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "dc613969-c916-49a9-83c0-5add2f684170"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "Chara_1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    575.0, 
+                                    106.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    33.86336866902238, 
+                                    46.49122807017544
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.7, 
+                                    0.7
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    211.0, 
+                                    253.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "05c48ee9-09b2-4f2d-ae58-cc3043649468"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "Chara_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    767.0, 
+                                    106.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.17078916372203, 
+                                    46.49122807017544
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.7, 
+                                    0.7
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    211.0, 
+                                    253.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "b470a6cd-cabf-4879-99ca-67590e689150"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "Chara_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    959.0, 
+                                    106.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    56.478209658421676, 
+                                    46.49122807017544
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.7, 
+                                    0.7
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    211.0, 
+                                    253.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "10a3bde7-ca40-4af7-a6b9-685e48ef0ac4"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "Chara_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1151.0, 
+                                    102.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    67.78563015312132, 
+                                    44.73684210526316
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.7, 
+                                    0.7
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    211.0, 
+                                    253.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "92570413-1cfe-4c20-af77-9dd6b906b713"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "Chara_5", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1342.9998779296875, 
+                                    102.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    79.09304345875663, 
+                                    44.73684210526316
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.7, 
+                                    0.7
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    211.0, 
+                                    253.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "3be9f79c-f492-499c-b687-363513972ecd"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "MSYH", 
+                                    30
+                                ]
+                            }, 
+                            "name": "Refresh", 
+                            "normal_font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    14, 
+                                    14, 
+                                    18, 
+                                    255
+                                ]
+                            }, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5237\u65b0", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    360.0, 
+                                    150.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    21.20141342756184, 
+                                    65.78947368421053
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.8, 
+                                    0.8
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    149.0, 
+                                    90.0
+                                ]
+                            }, 
+                            "touch_scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.8, 
+                                    0.8
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "ea1f9e8b-54d1-4e63-84e6-5894a66b4350"
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                138.0, 
+                                0.0, 
+                                140.5, 
+                                1408.5
+                            ], 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "MSYH", 
+                                    30
+                                ]
+                            }, 
+                            "name": "Upgrade", 
+                            "normal_font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    34, 
+                                    35, 
+                                    42, 
+                                    255
+                                ]
+                            }, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5347\u7ea7", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    359.0, 
+                                    62.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    21.142520612485278, 
+                                    27.192982456140353
+                                ]
+                            }, 
+                            "scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.8, 
+                                    0.8
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    149.0, 
+                                    90.0
+                                ]
+                            }, 
+                            "touch_scale": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.8, 
+                                    0.8
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "22ea13b9-87c0-47a0-9af4-9744bf8e9a96"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "Champs", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            -320.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            -320.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1698.0, 
+                            228.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "12057226-ced6-47d5-9e28-8f6b2ed971b5"
+                }
+            ], 
+            "event_list": [], 
+            "name": "Parent", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "c76dae05-345f-43fc-b539-c85610f91b39"
+        }
+    ], 
+    "name": "MainGame", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "cf4b7f3c-5b09-48c0-af51-2b3b1a28eb19", 
+    "visible": true, 
+    "zorder": 400
+}
