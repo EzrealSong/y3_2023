@@ -136,7 +136,7 @@
     "init_stock": 5, 
     "intelligence": 10.0, 
     "intelligence_grow": 1.0, 
-    "is_apply_role_color": true, 
+    "is_apply_role_color": false, 
     "is_mini_map_show": true, 
     "is_open_Xray": false, 
     "is_open_disk_shadow": 0, 
@@ -187,7 +187,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 0, 
+    "preview_billboard_health_value": 1000.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 
