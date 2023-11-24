@@ -1880,62 +1880,6 @@
         "trigger_name": "\u7269\u54c1\u680f\u76d1\u542c", 
         "valid": true
     }, 
-    "1739980858": {
-        "action": [
-            {
-                "action_type": "CREATE_UNIT", 
-                "args_list": [
-                    {
-                        "arg_type": 100116, 
-                        "args_list": [
-                            134278184
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    null, 
-                    {
-                        "arg_type": 100225, 
-                        "args_list": [
-                            {
-                                "arg_type": 100000, 
-                                "args_list": [
-                                    180.0
-                                ], 
-                                "sub_type": 1
-                            }
-                        ], 
-                        "sub_type": "GET_ANGLE_BY_FLOAT"
-                    }, 
-                    {
-                        "arg_type": 100006, 
-                        "args_list": [
-                            2
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 1739980858000025, 
-                "enable": true
-            }
-        ], 
-        "call_enabled": true, 
-        "condition": [], 
-        "enabled": true, 
-        "event": [
-            {
-                "args_list": [], 
-                "element_id": 1739980858000002, 
-                "enable": true, 
-                "event_type": "INIT_FINISHED"
-            }
-        ], 
-        "group_id": "kZQn3s4eEe2y+TDQQuUV9l", 
-        "p_trigger_id": null, 
-        "trigger_id": 1739980858, 
-        "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-        "valid": false
-    }, 
     "1783373882": {
         "action": [
             {
@@ -2493,6 +2437,585 @@
                 ], 
                 "bp": false, 
                 "element_id": 1956151347000008, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "POINT", 
+                                    "\u70b9\u6570\u7ec4"
+                                ]
+                            }, 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    0
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10015
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000010, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10016
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000013, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    2
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10017
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000018, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    3
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10019
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000023, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    4
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10009
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000028, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    5
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10010
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000033, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    6
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10011
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000038, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    7
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10012
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000043, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    8
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10014
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000048, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    9
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10005
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000053, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    10
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10006
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000058, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    11
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10007
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000063, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    12
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10008
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000070, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    13
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10000
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000077, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    14
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10001
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000084, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    15
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10002
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000091, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    16
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10003
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000098, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "POINT", 
+                                "\u70b9\u6570\u7ec4"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    17
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10004
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000105, 
                 "enable": true
             }
         ], 
