@@ -901,14 +901,16 @@
         "2031259706": {
             "variable_dict": {
                 "BOOLEAN": {
-                    "\u73a9\u5bb6\u79fb\u52a8_\u8ba1\u65f6\u5668": false, 
-                    "\u9f20\u6807\u662f\u5426\u70b9\u51fb": false
+                    "\u73a9\u5bb6\u79fb\u52a8_\u8ba1\u65f6\u5668": false
+                }, 
+                "INTEGER": {
+                    "\u5f53\u524dindex": 0
                 }, 
                 "NEW_TIMER": {}
             }, 
             "variable_length_dict": {
-                "\u73a9\u5bb6\u79fb\u52a8_\u8ba1\u65f6\u5668": 0, 
-                "\u9f20\u6807\u662f\u5426\u70b9\u51fb": 0
+                "\u5f53\u524dindex": 0, 
+                "\u73a9\u5bb6\u79fb\u52a8_\u8ba1\u65f6\u5668": 0
             }
         }, 
         "2095947833": {

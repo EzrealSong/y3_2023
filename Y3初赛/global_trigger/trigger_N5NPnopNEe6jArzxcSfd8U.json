@@ -84,35 +84,6 @@
                     ]
                 }, 
                 {
-                    "action_type": "SET_VARIABLE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100030, 
-                            "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "BOOLEAN", 
-                                        "\u9f20\u6807\u662f\u5426\u70b9\u51fb", 
-                                        "local"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                false
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 2031259706000163, 
-                    "enable": true
-                }, 
-                {
                     "action_type": "RUN_LOOP_TIMER", 
                     "args_list": [
                         {
@@ -231,35 +202,6 @@
                                             "arg_type": 100022, 
                                             "args_list": [
                                                 {
-                                                    "action_type": "SET_VARIABLE", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100030, 
-                                                            "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "BOOLEAN", 
-                                                                        "\u9f20\u6807\u662f\u5426\u70b9\u51fb", 
-                                                                        "local"
-                                                                    ]
-                                                                }
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100001, 
-                                                            "args_list": [
-                                                                true
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "element_id": 2031259706000168, 
-                                                    "enable": true
-                                                }, 
-                                                {
                                                     "action_type": "FORCE_TRANSMIT_UNIT", 
                                                     "args_list": [
                                                         {
@@ -280,8 +222,16 @@
                                                             "args_list": [
                                                                 {
                                                                     "arg_type": 100006, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                                                    "args_list": [
+                                                                        {
+                                                                            "__tuple__": true, 
+                                                                            "items": [
+                                                                                "UNIT_ENTITY", 
+                                                                                "\u88ab\u9009\u4e2d\u89d2\u8272"
+                                                                            ]
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": 11
                                                                 }
                                                             ], 
                                                             "sub_type": "UNIT_ENTITY_POINT"
@@ -304,18 +254,33 @@
                                                     ]
                                                 }, 
                                                 {
+                                                    "action_type": "STOP_GHOST", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100006, 
+                                                            "args_list": [
+                                                                [
+                                                                    "UNIT_ENTITY", 
+                                                                    "\u88ab\u9009\u4e2d\u89d2\u8272"
+                                                                ]
+                                                            ], 
+                                                            "sub_type": 11
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 2031259706776371, 
+                                                    "enable": true
+                                                }, 
+                                                {
                                                     "action_type": "DELETE_TIMER", 
                                                     "args_list": [
                                                         {
                                                             "arg_type": 100181, 
                                                             "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "NEW_TIMER", 
-                                                                        "\u9009\u62e9\u5355\u4f4d_\u8ba1\u65f6\u5668"
-                                                                    ]
-                                                                }
+                                                                [
+                                                                    "NEW_TIMER", 
+                                                                    "\u9009\u62e9\u5355\u4f4d_\u8ba1\u65f6\u5668"
+                                                                ]
                                                             ], 
                                                             "sub_type": "VARIABLE"
                                                         }
@@ -336,9 +301,7 @@
                                     "bp": false, 
                                     "element_id": 2031259706000070, 
                                     "enable": true, 
-                                    "fake_op": [
-                                        2
-                                    ]
+                                    "fake_op": []
                                 }
                             ], 
                             "sub_type": 1
@@ -416,7 +379,7 @@
                                                         {
                                                             "arg_type": 100000, 
                                                             "args_list": [
-                                                                82.0
+                                                                85.0
                                                             ], 
                                                             "sub_type": 1
                                                         }
@@ -481,6 +444,13 @@
                                                     "op_arg_enable": [
                                                         false
                                                     ]
+                                                }, 
+                                                {
+                                                    "action_type": "BREAK_LOOP", 
+                                                    "args_list": [], 
+                                                    "bp": false, 
+                                                    "element_id": 2031259706776396, 
+                                                    "enable": true
                                                 }
                                             ], 
                                             "sub_type": 1
@@ -494,9 +464,7 @@
                                     "bp": false, 
                                     "element_id": 2031259706000110, 
                                     "enable": true, 
-                                    "fake_op": [
-                                        2
-                                    ]
+                                    "fake_op": []
                                 }
                             ], 
                             "sub_type": 1
@@ -504,7 +472,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 2031259706000103, 
-                    "enable": false
+                    "enable": true
                 }
             ], 
             "call_enabled": true, 
