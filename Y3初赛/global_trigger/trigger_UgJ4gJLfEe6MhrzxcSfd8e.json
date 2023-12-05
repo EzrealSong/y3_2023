@@ -1,5 +1,32 @@
 {
     "trigger_dict": {
+        "969089084": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                2.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 969089084000002, 
+                    "enable": true, 
+                    "event_type": "GAME_ELAPSE_REPEAT"
+                }
+            ], 
+            "group_id": "UgJ4gJLfEe6MhrzxcSfd8e", 
+            "p_trigger_id": null, 
+            "trigger_id": 969089084, 
+            "trigger_name": "Debug", 
+            "valid": true
+        }, 
         "1147482171": {
             "action": [
                 {
@@ -43,14 +70,14 @@
                             "arg_type": 100026, 
                             "args_list": [
                                 {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "UNIT_GROUP", 
-                                        "\u73a9\u5bb6\u6240\u6709\u5355\u4f4d"
-                                    ]
+                                    "arg_type": 100025, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
                                 }
                             ], 
-                            "sub_type": 14
+                            "sub_type": "PLAYER_UNIT_GROUP"
                         }, 
                         {
                             "arg_type": 100022, 
@@ -74,6 +101,73 @@
                                     "bp": false, 
                                     "element_id": 1147482171000031, 
                                     "enable": true
+                                }, 
+                                {
+                                    "action_type": "SEND_TO_ROLE_GROUP_TEXT_TIME", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [], 
+                                                    "sub_type": "GET_STR_FROM_EVENT"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        " \u8b66\u6212"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg": [
+                                                null, 
+                                                null, 
+                                                null, 
+                                                null, 
+                                                null, 
+                                                null, 
+                                                null, 
+                                                null
+                                            ], 
+                                            "op_arg_enable": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false
+                                            ], 
+                                            "sub_type": "STR_JOIN"
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1147482171462397, 
+                                    "enable": true
                                 }
                             ], 
                             "sub_type": 1
@@ -90,14 +184,14 @@
                             "arg_type": 100026, 
                             "args_list": [
                                 {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "UNIT_GROUP", 
-                                        "\u654c\u65b9\u6240\u6709\u5355\u4f4d"
-                                    ]
+                                    "arg_type": 100025, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
                                 }
                             ], 
-                            "sub_type": 14
+                            "sub_type": "PLAYER_UNIT_GROUP"
                         }, 
                         {
                             "arg_type": 100022, 
@@ -128,6 +222,42 @@
                     ], 
                     "bp": false, 
                     "element_id": 1147482171000038, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SEND_TO_ROLE_GROUP_TEXT_TIME", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u6218\u6597\u5f00\u59cb"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                5.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1147482171462386, 
                     "enable": true
                 }
             ], 
@@ -175,7 +305,7 @@
                         {
                             "arg_type": 100067, 
                             "args_list": [
-                                "\u5f00\u59cb\u6218\u6597"
+                                "\u6218\u6597\u5f00\u59cb"
                             ], 
                             "sub_type": 1
                         }
@@ -200,6 +330,13 @@
                 "items": [
                     1147482171, 
                     "\u5f00\u59cb\u6218\u6597"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    969089084, 
+                    "Debug"
                 ]
             }
         ], 
