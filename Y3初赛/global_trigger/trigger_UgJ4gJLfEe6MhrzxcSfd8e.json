@@ -1,0 +1,210 @@
+{
+    "trigger_dict": {
+        "1147482171": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "BOOLEAN", 
+                                        "\u5f00\u59cb\u6218\u6597ing"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1147482171000018, 
+                    "enable": true
+                }, 
+                [
+                    1005462383, 
+                    "\u73a9\u5bb6\u5f00\u59cb\u6218\u6597\u540e\uff0c\u6240\u6709\u5355\u4f4d\u8fdb\u5165\u8b66\u6212\u6a21\u5f0f", 
+                    1147482171, 
+                    "action_type"
+                ], 
+                {
+                    "action_type": "PICK_UNIT_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100026, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "UNIT_GROUP", 
+                                        "\u73a9\u5bb6\u6240\u6709\u5355\u4f4d"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 14
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_UNIT_DEFAULT_SWITCH_BEHAVIOR", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                        }, 
+                                        {
+                                            "arg_type": 100242, 
+                                            "args_list": [
+                                                "caution"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1147482171000031, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1147482171000023, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "PICK_UNIT_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100026, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "UNIT_GROUP", 
+                                        "\u654c\u65b9\u6240\u6709\u5355\u4f4d"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 14
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_UNIT_DEFAULT_SWITCH_BEHAVIOR", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                        }, 
+                                        {
+                                            "arg_type": 100242, 
+                                            "args_list": [
+                                                "caution"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1147482171000044, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1147482171000038, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "BOOLEAN", 
+                                        "\u5f00\u59cb\u6218\u6597ing"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100035, 
+                            "args_list": [
+                                "=="
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "BOOL_COMPARE", 
+                    "element_id": 1147482171000010, 
+                    "enable": true
+                }
+            ], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "\u5f00\u59cb\u6218\u6597"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1147482171000002, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "N5NPnopNEe6jArzxcSfd8U", 
+            "p_trigger_id": null, 
+            "trigger_id": 1147482171, 
+            "trigger_name": "\u5f00\u59cb\u6218\u6597", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1147482171, 
+                    "\u5f00\u59cb\u6218\u6597"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "UgJ4gJLfEe6MhrzxcSfd8e", 
+        "name": "GUI"
+    }
+}

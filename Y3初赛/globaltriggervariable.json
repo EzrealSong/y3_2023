@@ -926,6 +926,9 @@
     }, 
     "variable_comments": {}, 
     "variable_dict": {
+        "BOOLEAN": {
+            "\u5f00\u59cb\u6218\u6597ing": false
+        }, 
         "FLOAT": {
             "tips_scale": 0.0
         }, 
@@ -951,6 +954,10 @@
         }, 
         "UNIT_ENTITY": {
             "\u88ab\u9009\u4e2d\u89d2\u8272": 0
+        }, 
+        "UNIT_GROUP": {
+            "\u654c\u65b9\u6240\u6709\u5355\u4f4d": [], 
+            "\u73a9\u5bb6\u6240\u6709\u5355\u4f4d": []
         }, 
         "UNIT_NAME": {}
     }, 
@@ -1010,6 +1017,27 @@
                 "\u9009\u62e9\u5355\u4f4d_\u8ba1\u65f6\u5668", 
                 "\u9009\u62e9\u5355\u4f4d_\u8ba1\u65f6\u5668"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f00\u59cb\u6218\u6597ing", 
+                "\u5f00\u59cb\u6218\u6597ing"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u6240\u6709\u5355\u4f4d", 
+                "\u73a9\u5bb6\u6240\u6709\u5355\u4f4d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u654c\u65b9\u6240\u6709\u5355\u4f4d", 
+                "\u654c\u65b9\u6240\u6709\u5355\u4f4d"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -1018,7 +1046,10 @@
         "Shop_UI_table": 0, 
         "Skill_UI_table": 0, 
         "tips_scale": 10, 
+        "\u5f00\u59cb\u6218\u6597ing": 0, 
+        "\u654c\u65b9\u6240\u6709\u5355\u4f4d": 0, 
         "\u70b9\u6570\u7ec4": 10, 
+        "\u73a9\u5bb6\u6240\u6709\u5355\u4f4d": 0, 
         "\u88ab\u9009\u4e2d\u89d2\u8272": 0, 
         "\u9009\u62e9\u5355\u4f4d_\u8ba1\u65f6\u5668": 0
     }

@@ -3,10 +3,20 @@
         "1": {
             "camp_name": "$faction 1", 
             "camp_name_en": "Faction 1", 
-            "camp_name_zh": "\u9635\u8425 1", 
+            "camp_name_zh": "\u73a9\u5bb6", 
             "least_num": 0, 
             "roles": [
                 1
+            ], 
+            "share_vision": true
+        }, 
+        "2": {
+            "camp_name": "$faction 2", 
+            "camp_name_en": "Faction 2", 
+            "camp_name_zh": "\u654c\u65b9", 
+            "least_num": 0, 
+            "roles": [
+                2
             ], 
             "share_vision": true
         }, 
@@ -39,6 +49,14 @@
             "role_name_en": "Player 1", 
             "role_name_zh": "\u73a9\u5bb6 1", 
             "role_type": 1
+        }, 
+        "2": {
+            "camp_id": 2, 
+            "role_color": "#FF8000", 
+            "role_name": "$player 2", 
+            "role_name_en": "Player 2", 
+            "role_name_zh": "AI", 
+            "role_type": 2
         }, 
         "31": {
             "camp_id": 9999, 
